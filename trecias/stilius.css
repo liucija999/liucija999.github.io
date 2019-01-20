@@ -1,0 +1,17 @@
+<style>
+body{
+    background-color:peachpuff;
+}
+h1{
+    text-align:center;
+    color:white;
+}
+.a{
+    height: 100px;
+      width: 100%;
+      background-color:rgb(196, 128, 72);
+}
+.hr{
+    color:orange;
+}
+</style>

@@ -1,0 +1,28 @@
+<style>
+body{
+   background-color:rebeccapurple;
+}
+     table,th,td{
+        border: 1px solid black;
+         margin:auto;
+         height: 50px;
+         background-color:lightcyan;
+         }
+        .pirma{
+           background-color:blue;
+        }
+        .antra{
+           background-color:yellow;
+        }
+        a:hover{
+           font-size:120%;
+           color:orangered;
+        }
+        #Autorius{
+           text-align:left;
+           color:red;
+        }
+        h1{
+                color:blue;
+        }
+</style>     

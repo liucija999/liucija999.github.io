@@ -1,0 +1,44 @@
+<style>
+h1{
+    text-align:center;
+}
+.a{
+height: 100px;
+  width: 100%;
+  background-color:rgb(116, 78, 9);
+}
+.b{
+    background-color:rgb(160, 124, 58)
+}
+
+.td{
+    width: 33%;
+}
+.pirma{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 200px;
+    margin-left: 200px;
+    width:100%;
+}
+table,tr,td{
+    border:3px solid black;
+    text-align:center;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 21px;
+      }
+      th {
+        background-color: black;
+        color: white;
+}
+#Autorius{
+    text-align:left;
+    color:white;
+}
+.antraste{
+    text-align:center;
+    color:white;
+}
+</style>
